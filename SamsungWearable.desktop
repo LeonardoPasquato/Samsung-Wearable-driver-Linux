@@ -1,0 +1,6 @@
+[Desktop Entry]
+Version=666.0
+Type=Application
+Exec=/opt/SamsungWearable/GalaxyBudsClient_Linux_64bit_Portable.bin
+Name=Samsung Wearable
+Icon=/usr/local/share/icons/iconSW.svg
